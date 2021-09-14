@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiRest_Hogwarts", "WebApiRest_Hogwarts.csproj", "{9EEF03B9-72CE-473B-BE3E-30F5478E2EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHogwarts_bl", "..\WebHogwarts.bl\WebHogwarts_bl.csproj", "{F45E58CF-4334-4107-9618-E2777E832830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EEF03B9-72CE-473B-BE3E-30F5478E2EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEF03B9-72CE-473B-BE3E-30F5478E2EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEF03B9-72CE-473B-BE3E-30F5478E2EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEF03B9-72CE-473B-BE3E-30F5478E2EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45E58CF-4334-4107-9618-E2777E832830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45E58CF-4334-4107-9618-E2777E832830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45E58CF-4334-4107-9618-E2777E832830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45E58CF-4334-4107-9618-E2777E832830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D17C3AF7-80FE-49C0-B3AC-112E86D4BC03}
+	EndGlobalSection
+EndGlobal
